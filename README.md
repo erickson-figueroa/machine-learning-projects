@@ -13,7 +13,7 @@ Welcome to the Machine Learning Projects repository! This repository contains a 
   <tr>
     <td>Tree-Based Classification</td>
     <td>Implemented various decision tree algorithms with detailed analysis and performance metrics.</td>
-    <td><a href="https://colab.research.google.com/github/erickson-figueroa/Tree-Based Classification/Tree-Based Classification.ipynb" rel="nofollow"><img src="https://camo.githubusercontent.com/f5e0d0538a9c2972b5d413e0ace04cecd8efd828d133133933dfffec282a4e1b/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667" alt="Open In Colab" data-canonical-src="https://colab.research.google.com/assets/colab-badge.svg" style="max-width: 100%;"></a></td>
+    <td><a href="https://colab.research.google.com/github/erickson-figueroa/machine-learning-projects/Tree-Based Classification/blob/main/Tree-Based Classification.ipynb" rel="nofollow"><img src="https://camo.githubusercontent.com/f5e0d0538a9c2972b5d413e0ace04cecd8efd828d133133933dfffec282a4e1b/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667" alt="Open In Colab" data-canonical-src="https://colab.research.google.com/assets/colab-badge.svg" style="max-width: 100%;"></a></td>
   </tr>
   <tr>
     <td>KNN and Naive Bayes Classification</td>
