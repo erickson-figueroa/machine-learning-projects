@@ -60,7 +60,7 @@ Welcome to the Machine Learning Projects repository! This repository contains a 
   <tr>
     <td>KNN and Naive Bayes Classification</td>
     <td>Explored k-nearest neighbors and Naive Bayes classifiers, compared their effectiveness on datasets.</td>
-    <td><a href="https://colab.research.google.com/github/your-username/machine-learning-projects/blob/main/knn-naive-bayes-classification.ipynb" rel="nofollow"><img src="https://camo.githubusercontent.com/f5e0d0538a9c2972b5d413e0ace04cecd8efd828d133133933dfffec282a4e1b/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667" alt="Open In Colab" data-canonical-src="https://colab.research.google.com/assets/colab-badge.svg" style="max-width: 100%;"></a></td>
+    <td><a href="https://colab.research.google.com/github/your-username/machine-learning-projects/blob/main/knn-naive-bayes-classification.ipynb" rel="nofollow"><img    src="https://camo.githubusercontent.com/f5e0d0538a9c2972b5d413e0ace04cecd8efd828d133133933dfffec282a4e1b/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667" alt="Open In Colab" data-canonical-src="https://colab.research.google.com/assets/colab-badge.svg" style="max-width: 100%;"></a></td>
   </tr>
   <tr>
     <td>Linear Regression</td>
@@ -79,8 +79,30 @@ Welcome to the Machine Learning Projects repository! This repository contains a 
   </tr>
   <tr>
     <td>Image Classification</td>
-    <td>Used TensorFlow and Keras for image classification tas
-
+    <td>Used TensorFlow and Keras for image classification tasks with data augmentation and transfer learning.</td>
+    <td><a href="https://colab.research.google.com/github/your-username/machine-learning-projects/blob/main/image-classification.ipynb" rel="nofollow"><img src="https://camo.githubusercontent.com/f5e0d0538a9c2972b5d413e0ace04cecd8efd828d133133933dfffec282a4e1b/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667" alt="Open In Colab" data-canonical-src="https://colab.research.google.com/assets/colab-badge.svg" style="max-width: 100%;"></a></td>
+  </tr>
+  <tr>
+    <td>Evaluation and Optimization</td>
+    <td>Focused on evaluating and optimizing machine learning models, including model validation techniques.</td>
+    <td><a href="https://colab.research.google.com/github/your-username/machine-learning-projects/blob/main/evaluation-optimization.ipynb" rel="nofollow"><img src="https://camo.githubusercontent.com/f5e0d0538a9c2972b5d413e0ace04cecd8efd828d133133933dfffec282a4e1b/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667" alt="Open In Colab" data-canonical-src="https://colab.research.google.com/assets/colab-badge.svg" style="max-width: 100%;"></a></td>
+  </tr>
+  <tr>
+    <td>Hyperparameter Tuning</td>
+    <td>Explored methods for hyperparameter optimization, demonstrated their impact on model performance.</td>
+    <td><a href="https://colab.research.google.com/github/your-username/machine-learning-projects/blob/main/hyperparameter-tuning.ipynb" rel="nofollow"><img src="https://camo.githubusercontent.com/f5e0d0538a9c2972b5d413e0ace04cecd8efd828d133133933dfffec282a4e1b/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667" alt="Open In Colab" data-canonical-src="https://colab.research.google.com/assets/colab-badge.svg" style="max-width: 100%;"></a></td>
+  </tr>
+  <tr>
+    <td>Cluster Analysis</td>
+    <td>Applied clustering algorithms to group data points with visualizations and interpretation of clusters.</td>
+    <td><a href="https://colab.research.google.com/github/your-username/machine-learning-projects/blob/main/cluster-analysis.ipynb" rel="nofollow"><img src="https://camo.githubusercontent.com/f5e0d0538a9c2972b5d413e0ace04cecd8efd828d133133933dfffec282a4e1b/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667" alt="Open In Colab" data-canonical-src="https://colab.research.google.com/assets/colab-badge.svg" style="max-width: 100%;"></a></td>
+  </tr>
+  <tr>
+    <td>And Much More!</td>
+    <td>Additional projects covering a variety of machine learning topics.</td>
+    <td><a href="https://colab.research.google.com/github/your-username/machine-learning-projects/blob/main/more-projects.ipynb" rel="nofollow"><img src="https://camo.githubusercontent.com/f5e0d0538a9c2972b5d413e0ace04cecd8efd828d133133933dfffec282a4e1b/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667" alt="Open In Colab" data-canonical-src="https://colab.research.google.com/assets/colab-badge.svg" style="max-width: 100%;"></a></td>
+  </tr>
+</table>
 
 
 ### How to Use
