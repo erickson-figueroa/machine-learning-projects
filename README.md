@@ -8,7 +8,7 @@ Welcome to the Machine Learning Projects repository! This repository contains a 
     <th>Project</th>
     <th>Algorithm</th>
     <th>Description</th>
-    <th>Open in Colab</th>
+    <th>Colab</th>
     <th>Project Folder</th>
   </tr>
   <tr>
