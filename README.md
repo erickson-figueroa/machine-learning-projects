@@ -33,8 +33,8 @@ Welcome to the Machine Learning Projects repository! This repository contains a 
   </tr>
   <tr>
     <td>The 20 Newsgroups Text Classification</td>
-    <td>Text Classification with Logistic Regression & SVMs</td>
-    <td>Implemented text classification using Logistic Regression and SVMs, evaluated on real-world data.</td>
+    <td>Text Classification with Logistic Regression & SVM</td>
+    <td>Implemented text classification using Logistic Regression and Support Vector Machine, evaluated on real-world data.</td>
     <td><a href="https://colab.research.google.com/github/erickson-figueroa/machine-learning-projects/blob/main/text-classification-logistic-regression-svms.ipynb" rel="nofollow"><img src="https://camo.githubusercontent.com/f5e0d0538a9c2972b5d413e0ace04cecd8efd828d133133933dfffec282a4e1b/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667" alt="Open In Colab" data-canonical-src="https://colab.research.google.com/assets/colab-badge.svg" style="max-width: 100%;"></a></td>
   </tr>
   <tr>
