@@ -4,8 +4,6 @@ Welcome to the Machine Learning Projects repository! This repository contains a 
 
 <h2>Projects Included</h2>
 
-<h2>Machine Learning Projects</h2>
-
 <table>
   <tr>
     <th>Project</th>
