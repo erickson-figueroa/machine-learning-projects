@@ -56,7 +56,7 @@ Welcome to the Machine Learning Projects repository! This repository contains a 
   <tr>
     <td>Hand-Written digits from 0-9 Evaluation & Optimization</td>
     <td>Evaluation and Optimization</td>
-    <td>Focused on evaluating and optimizing machine learning models, including model validation and hyperparameter tuning techniques.</td>
+    <td>Focused on evaluating and optimizing machine learning models, including model validation and Hyperparameter Tuning techniques.</td>
     <td><a href="https://colab.research.google.com/github/erickson-figueroa/machine-learning-projects/blob/main/evaluation-optimization.ipynb" rel="nofollow"><img src="https://camo.githubusercontent.com/f5e0d0538a9c2972b5d413e0ace04cecd8efd828d133133933dfffec282a4e1b/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667" alt="Open In Colab" data-canonical-src="https://colab.research.google.com/assets/colab-badge.svg" style="max-width: 100%;"></a></td>
     <td><a href="https://github.com/erickson-figueroa/machine-learning-projects/tree/main/evaluation-optimization" rel="nofollow">📂</a></td>
   </tr>
