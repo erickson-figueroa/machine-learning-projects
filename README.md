@@ -72,7 +72,7 @@ Welcome to the Machine Learning Projects repository! This repository contains a 
 
 ### How to Use
 
-Each project folder contains a Jupyter notebook (.ipynb) that you can download and open on your personal computer if you have installed Jupyter Lab from the Anaconda tool, for example, using Visual Studio code with the Notebook opening extension. Follow the provided guidelines to explore and reproduce the results within the project.
+Each project folder contains a Jupyter notebook (.ipynb) that you can download and open on your computer if you have installed Jupyter Lab from the Anaconda tool or using Visual Studio code with the Jupyter Extension. Follow the provided guidelines to explore and reproduce the results within each project.
 
 - Download and install Anaconda distribution: https://www.anaconda.com/download or
 - Download and install Visual studio code: https://code.visualstudio.com/
