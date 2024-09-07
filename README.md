@@ -44,7 +44,7 @@ Welcome to the Machine Learning Projects repository! This repository contains a 
     <td>Ensembles</td>
     <td>Combined multiple models using Ensembles techniques, demonstrated improvements in accuracy.</td>
     <td><a href="https://colab.research.google.com/github/erickson-figueroa/machine-learning-projects/blob/main/ensembles.ipynb" rel="nofollow"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" style="width: 290px;"></a></td>
-    <td><a href="https://github.com/erickson-figueroa/machine-learning-projects/tree/main/ensembles" rel="nofollow">📂</a></td>
+    <td><a href="https://github.com/erickson-figueroa/machine-learning-projects/tree/main/Ensembles" rel="nofollow">📂</a></td> 
   </tr>
   <tr>
     <td>Cats and Dogs Image Classification</td>
