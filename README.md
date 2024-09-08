@@ -62,7 +62,7 @@ Welcome to the Machine Learning Projects repository! This repository contains a 
   </tr>
   <tr>
     <td>Unsupervised Learning Cluster Analysis</td>
-    <td>Cluster Analysis</td>
+    <td>K-Means Cluster</td>
     <td>Applied clustering algorithms to group data points with visualizations and interpretation of clusters.</td>
     <td><a href="https://colab.research.google.com/github/erickson-figueroa/machine-learning-projects/blob/main/cluster-analysis.ipynb" rel="nofollow"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" style=" width: 300px;"></a></td>
     <td><a href="https://github.com/erickson-figueroa/machine-learning-projects/tree/main/cluster-analysis" rel="nofollow">📂</a></td>
