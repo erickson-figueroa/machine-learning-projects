@@ -82,7 +82,7 @@ Each project folder contains a Jupyter notebook (.ipynb) that you can download a
 
 If you have a google account, you can directly open the project with “Google Colab”. Click on the button that says: “Open in Colab”.
 
-- What is Google Colab? 
+<b>What is Google Colab?</b> 
 Colab is a hosted Jupyter Notebook service that requires no setup to use and provides free of charge access to computing resources, including GPUs and TPUs.
 
 ---
