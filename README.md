@@ -55,7 +55,7 @@ Welcome to the Machine Learning Projects repository! This repository contains a 
   </tr>
   <tr>
     <td>Hand-Written digits from 0-9 Evaluation & Optimization</td>
-    <td>Evaluation and Optimization</td>
+    <td>SVM, Logistic Regression, KNN, Grid Search, Ramdom Search.</td>
     <td>Focused on evaluating and optimizing machine learning models, including model validation and Hyperparameter Tuning techniques.</td>
     <td><a href="https://colab.research.google.com/github/erickson-figueroa/machine-learning-projects/blob/main/evaluation-optimization.ipynb" rel="nofollow"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" style="width: 300px;"></a></td>
     <td><a href="https://github.com/erickson-figueroa/machine-learning-projects/tree/main/evaluation-optimization" rel="nofollow">📂</a></td>
