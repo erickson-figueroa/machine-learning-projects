@@ -78,6 +78,13 @@ Each project folder contains a Jupyter notebook (.ipynb) that you can download a
 - Download and install Visual studio code: https://code.visualstudio.com/
 - Download and install Jupyter Extension for Visual Studio Code: https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter
 
+### Alternative Option
+
+If you have a google account, you can directly open the project with “Google Colab”. Click on the button that says: “Open in Colab”.
+
+- What is Google Colab? 
+Colab is a hosted Jupyter Notebook service that requires no setup to use and provides free of charge access to computing resources, including GPUs and TPUs.
+
 ---
 
 Feel free to explore!
