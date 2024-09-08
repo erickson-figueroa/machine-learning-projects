@@ -48,7 +48,7 @@ Welcome to the Machine Learning Projects repository! This repository contains a 
   </tr>
   <tr>
     <td>Cats and Dogs Image Classification</td>
-    <td>Image Classification</td>
+    <td>Convolutional neural network (CNN)</td>
     <td>Used TensorFlow and Keras for image classification tasks with data augmentation and transfer learning.</td>
     <td><a href="https://colab.research.google.com/github/erickson-figueroa/machine-learning-projects/blob/main/image-classification.ipynb" rel="nofollow"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" style="width: 300px;"></a></td>
     <td><a href="https://github.com/erickson-figueroa/machine-learning-projects/tree/main/image-classification" rel="nofollow">📂</a></td>
