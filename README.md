@@ -15,7 +15,7 @@ Welcome to the Machine Learning Projects repository! This repository contains a 
     <td>Titanic Survivor Prediction</td>
     <td>Tree-Based Classification</td>
     <td>Implemented a decision tree algorithm with detailed analysis and performance metrics.</td>
-    <td><a href="https://colab.research.google.com/github/erickson-figueroa/machine-learning-projects/blob/main/Tree-Based%20Classification/Tree-Based-Classification.ipynb" rel="nofollow"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" style="width: 290px;"></a></td>
+    <td><a href="https://colab.research.google.com/github/erickson-figueroa/machine-learning-projects/blob/main/Tree-Based%20Classification/Tree-Based-Classification.ipynb" rel="nofollow"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" style="width: 100%;"></a></td>
     <td><a href="https://github.com/erickson-figueroa/machine-learning-projects/tree/main/Tree-Based%20Classification" rel="nofollow">📂</a></td>
   </tr>
   <tr>
