@@ -67,6 +67,13 @@ Welcome to the Python Machine Learning Projects repository! This repository cont
     <td><a href="https://colab.research.google.com/github/erickson-figueroa/machine-learning-projects/blob/main/Cluster Analysis/Cluster Analysis.ipynb" rel="nofollow"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" style=" width: 400px;"></a></td>
     <td><a href="https://github.com/erickson-figueroa/machine-learning-projects/tree/main/Cluster Analysis" rel="nofollow">📂</a></td>
   </tr>
+  <tr>
+    <td>Predicting Credit Card Approvals</td>
+    <td>Classification</td>
+    <td>Build a machine learning model to predict if a credit card application will get approved.</td>
+    <td><a href="https://colab.research.google.com/github/erickson-figueroa/machine-learning-projects/blob/main/#" rel="nofollow"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" style=" width: 400px;"></a></td>
+    <td><a href="https://github.com/erickson-figueroa/machine-learning-projects/tree/main/#" rel="nofollow">📂</a></td>
+  </tr>
 </table>
 
 
