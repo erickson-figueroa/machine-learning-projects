@@ -67,11 +67,11 @@ Welcome to the Python Machine Learning Projects repository! This repository cont
     <td><a href="https://colab.research.google.com/github/erickson-figueroa/machine-learning-projects/blob/main/Cluster Analysis/Cluster Analysis.ipynb" rel="nofollow"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" style=" width: 400px;"></a></td>
     <td><a href="https://github.com/erickson-figueroa/machine-learning-projects/tree/main/Cluster Analysis" rel="nofollow">📂</a></td>
   </tr>
-    <tr>
+  <tr>
     <td>Unsupervised Learning Cluster Analysis</td>
     <td>K-Means Cluster</td>
     <td>Applied clustering algorithms to group venues by neighborhoods using the Foursquare API.</td>
-    <td><a href="https://colab.research.google.com/github/erickson-figueroa/Capstone_Project_DS_IBM/blob/main/coursera_capstone_notebook.ipynb" rel="nofollow"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" style=" width: 400px;"></a></td>
+    <td><a href="https://colab.research.google.com/github/erickson-figueroa/Capstone_Project_DS_IBM/blob/main/coursera_capstone_notebook.ipynb" rel="nofollow"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"               style=" width: 400px;"></a></td>
     <td><a href="https://github.com/erickson-figueroa/Capstone_Project_DS_IBM/tree/main" rel="nofollow">📂</a></td>
   </tr>
   <tr>
