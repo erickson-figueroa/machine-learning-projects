@@ -11,6 +11,13 @@ Welcome to the Python Machine Learning Projects repository! This repository cont
     <th>Colab</th>
     <th>Project Folder</th>
   </tr>
+   <tr>
+    <td>Predict Rental Prices For U.S. Apartments</td>
+    <td>Linear Regression</td>
+    <td>The project addresses the challenge of predicting rental prices by taking into account a variety of apartment characteristics, involving both quantitative and qualitative variables, resulting in a comprehensive analysis.</td>
+    <td><a href="https://colab.research.google.com/github/erickson-figueroa/machine-learning-projects/blob/main/Predict Rental Prices/Predict Rental Prices For U.S. Apartments.ipynb" rel="nofollow"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" style="width: 400px;"></a></td>
+    <td><a href="https://github.com/erickson-figueroa/machine-learning-projects/tree/main/Predict Rental Prices" rel="nofollow">📂</a></td>
+  </tr>
   <tr>
     <td>Titanic Survivor Prediction</td>
     <td>Tree-Based Classification</td>
