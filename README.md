@@ -1,6 +1,6 @@
 ## Python Machine Learning Projects :computer:
 
-Welcome to the Python Machine Learning Projects repository! This repository contains a collection of my top machine learning projects, showcasing various techniques and algorithms across multiple domains. Each project is organized into its own folder with detailed documentation, code, and results.
+Welcome to the Python Machine Learning Projects repository! This repository features a collection of my top machine learning projects, developed during my graduate studies in predictive analytics at the University of Winnipeg (Canada). These projects showcase various techniques and algorithms applied across multiple domains. Each project is organized into its own folder, complete with detailed documentation, code, and results.
 <h2>Projects Included</h2>
 
 <table>
