@@ -81,13 +81,6 @@ Welcome to the Python Machine Learning Projects repository! This repository feat
     <td><a href="https://colab.research.google.com/github/erickson-figueroa/Capstone_Project_DS_IBM/blob/main/coursera_capstone_notebook.ipynb" rel="nofollow"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"               style=" width: 400px;"></a></td>
     <td><a href="https://github.com/erickson-figueroa/Capstone_Project_DS_IBM/tree/main" rel="nofollow">📂</a></td>
   </tr>
-  <tr>
-    <td>Predicting Credit Card Approvals</td>
-    <td>Classification</td>
-    <td>Build a machine learning model to predict if a credit card application will get approved.</td>
-    <td><a href="https://colab.research.google.com/github/erickson-figueroa/machine-learning-projects/blob/main/#" rel="nofollow"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" style=" width: 400px;"></a></td>
-    <td><a href="https://github.com/erickson-figueroa/machine-learning-projects/tree/main/Credit Card Approvals" rel="nofollow">📂</a></td>
-  </tr>
 </table>
 
 
