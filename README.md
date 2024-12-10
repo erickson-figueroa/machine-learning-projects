@@ -1,5 +1,5 @@
 ## Python Machine Learning Projects :computer:
-elcome to the Python Machine Learning Projects repository! This repository features a collection of my top machine learning projects, developed during my graduate studies in predictive analytics at the University of Winnipeg (Canada) and the final project for the IBM Data Science Professional Certificate. These projects showcase various techniques and algorithms applied across multiple domains. Each project is organized into its own folder, complete with detailed documentation, code, and results.
+Welcome to the Python Machine Learning Projects repository! This repository features a collection of my top machine learning projects, developed during my graduate studies in predictive analytics at the University of Winnipeg (Canada) and the final project for the IBM Data Science Professional Certificate. These projects showcase various techniques and algorithms applied across multiple domains. Each project is organized into its own folder, complete with detailed documentation, code, and results.
 <h2>Projects Included</h2>
 
 <table>
