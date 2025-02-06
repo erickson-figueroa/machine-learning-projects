@@ -7,7 +7,7 @@ Welcome to the Python Machine Learning Projects repository! This repository feat
     <th>Project</th>
     <th>Algorithm</th>
     <th>Description</th>
-    <th>Open in Colab</th>
+    <th>Click to open</th>
     <th>Project Folder</th>
   </tr>
    <tr>
